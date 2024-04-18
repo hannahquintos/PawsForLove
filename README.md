@@ -13,3 +13,7 @@ Anonymous users have read functionality, allowing them access to pages to view a
 My project has two main tables, a dogs table and a breeds table. The dogs table stores information about the dogs available for adoption and the breeds table stores information about the different dog breeds. These two tables have a one to many relationship. A dog belongs to one breed and a breed can have many dogs. This relationship is identified by the foreign key, breed_id, in the dogs table.
 
 ## User Flow
+
+## Anonymous Users
+![Profile Image](/_readme/dog-list.png)
+<!--<img src="/_readme/dog-list.png" width="200" height="200">-->
