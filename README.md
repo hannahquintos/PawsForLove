@@ -14,6 +14,31 @@ My project has two main tables, a dogs table and a breeds table. The dogs table 
 
 ## User Flow
 
-## Anonymous Users
-<!--![Profile Image](/_readme/dog-list.png)-->
+### Anonymous Users
+#### Dog List Page:
 <img src="/_readme/dog-list.png" width="600">
+
+#### Dog Show Page:
+<img src="/_readme/dog-show.png" width="600">
+
+### Admin Users
+#### Login Page:
+<img src="/_readme/login.png" width="600">
+
+#### Dog List Page:
+<img src="/_readme/admin-dog-list.png" width="600">
+
+#### Create Dog Page:
+<img src="/_readme/admin-dog-create.png" width="600">
+
+#### Dog Show Page:
+<img src="/_readme/admin-dog-show.png" width="600">
+
+#### Dog Edit Page:
+<img src="/_readme/admin-dog-edit.png" width="600">
+
+#### Breed List Page:
+<img src="/_readme/admin-breed-list.png" width="600">
+
+#### Breed Show Page:
+<img src="/_readme/admin-breed-show.png" width="600">
