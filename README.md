@@ -15,5 +15,5 @@ My project has two main tables, a dogs table and a breeds table. The dogs table 
 ## User Flow
 
 ## Anonymous Users
-![Profile Image](/_readme/dog-list.png)
-<!--<img src="/_readme/dog-list.png" width="200" height="200">-->
+<!--![Profile Image](/_readme/dog-list.png)-->
+<img src="/_readme/dog-list.png" width="300">
