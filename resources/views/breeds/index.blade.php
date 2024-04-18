@@ -14,7 +14,7 @@
                 <div class="card-body p-0">
                     <h2 class="card-title">{{ $breed -> breedName }}</h2>
                     <a href="{{ route('breeds.show', $breed -> id) }}" class="card-link viewLink">
-                        View {{ $breed -> breedName }}'s
+                        View All
                     </a>
                 </div>
             </div>

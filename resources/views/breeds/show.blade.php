@@ -2,7 +2,7 @@
 @section('content')
 
 <div class="headingContainer">
-    <h1 class="pageHeading">{{ $breed -> breedName }}'s</h1>
+    <h1 class="pageHeading">{{ $breed -> breedName }}s</h1>
     <div>
         <a class="btn button" href="{{ route('breeds.edit', $breed -> id ) }}">Edit</a>
         <a class="btn button" href="{{ route('breeds.trash', $breed -> id ) }}">Delete</a>
