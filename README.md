@@ -42,3 +42,6 @@ My project has two main tables, a dogs table and a breeds table. The dogs table 
 
 #### Breed Show Page:
 <img src="/_readme/admin-breed-show.png" width="600">
+
+## Thoughts on Laravel
+I thought Laravel was relatively simple to understand. I think it really helped that we were already familiar with the MVC architecture from working with ASP.NET. I also appreciate the built in functionalities Laravel offers.
